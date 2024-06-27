@@ -1,0 +1,16 @@
+.border-green {
+    border: 2px solid green;
+    background-color: cornflowerblue;
+  }
+  
+  .border-transparent {
+    border: 2px solid transparent;
+  }
+  
+  .focus-visible {
+    outline: none;
+  }
+  
+  .line-through{
+    text-decoration: line-through;
+  }
